@@ -1,5 +1,8 @@
-hello = "Hello World"
-h3ll0 = "1+2 = ?"
-print(hello)
-print(h3ll0)
-print("HOW ARE YOU")
+# Imports
+# ..some code
+def print0(text):
+    print(text)
+
+# main()
+if __name__ == "__main__":
+    print0(input("Enter your text to print: "))
